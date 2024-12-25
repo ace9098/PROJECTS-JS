@@ -23,7 +23,7 @@ Follow these steps to set up and run the Color Switcher project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/color-switcher.git
+   git clone https://github.com/ace9098/color-switcher.git
    cd color-switcher
    ```
 
