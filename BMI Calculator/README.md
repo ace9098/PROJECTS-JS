@@ -23,7 +23,7 @@ Follow these steps to set up and run the BMI Calculator project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ace9098/bmi-calculator.git
+   git clone https://github.com/harsh-dev2003/bmi-calculator.git
    cd bmi-calculator
    ```
 
